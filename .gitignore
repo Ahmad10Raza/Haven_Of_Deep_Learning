@@ -6,6 +6,11 @@ __pycache__/
 # C extensions
 *.so
 
+#Images
+02_Neural_Networks_Basics\Images\*.png
+*.png
+/images
+
 # Distribution / packaging
 .Python
 build/
